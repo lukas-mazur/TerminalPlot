@@ -9,4 +9,5 @@ fi
 exec julia --project=$(dirname $0)/../ "$0" -- "$@"
 =#
 using TerminalPlots
-terminal_plot()
+path = ARGS[1]
+terminal_plot(path)

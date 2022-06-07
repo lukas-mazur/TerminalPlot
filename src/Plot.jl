@@ -1,8 +1,7 @@
 using UnicodePlots
 
 
-function terminal_plot()
-    path = ARGS[1]
+function terminal_plot(path::String)
     println("Plotting file $path\n")
 
     data = transpose(readdlm(path, ','))
