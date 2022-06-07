@@ -1,4 +1,4 @@
-# TerminalPlot
+# TerminalPlots
 
 Tool to quickly plot a two-column csv file in your terminal.
 
