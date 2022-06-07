@@ -1,0 +1,8 @@
+name = "TerminalPlots"
+uuid = "b951dcc4-d498-4304-b5c6-cda3d9629ad2"
+authors = ["lukas-mazur <59335056+lukas-mazur@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"

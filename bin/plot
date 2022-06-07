@@ -1,0 +1,12 @@
+#!/bin/sh
+#=
+if [ $# -eq 0 ]
+then
+    echo "No arguments supplied"
+    echo "Usage: ./plot <path_to_data>"
+    exit
+fi
+exec julia --project=$(dirname $0)/../ "$0" -- "$@"
+=#
+using TerminalPlots
+terminal_plot()
