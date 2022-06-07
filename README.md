@@ -3,7 +3,7 @@
 Tool to quickly plot a two-column csv file in your terminal.
 
 
-![image](https://user-images.githubusercontent.com/59335056/172400769-a7510106-f205-43f1-9814-1327a1c9f655.png)
+![image](https://user-images.githubusercontent.com/59335056/172404589-9cc4eb88-b436-4ba7-bba3-070845a4ba5d.png)
 
 
 ## Installation
